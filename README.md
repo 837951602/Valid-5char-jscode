@@ -3,6 +3,7 @@
 $i.txt are all code that start with char($i)
 
 Stats: (ASCII of first char, count)
+
     32 23840849
     33 22570492
     34 970071
